@@ -8,8 +8,53 @@ This project involves creating Python scripts to scrape book data from the "Book
 - Virtual environment (recommended)
 
 ## Setup
-Create and activate the Virtual Environment then run the following in the terminal:
-pip install -r requirements.txt
+
+Follow these steps to set up the project:
+
+1. **Clone the repository**
+
+   Clone this repository to your local machine. You can do this by running the following command in your terminal:
+
+   ```bash
+   git clone https://github.com/Kevcar98/Web-scraping-and-Data-Analysis-Project.git
+
+
+2. **Navigate to the project directory**
+
+    Change your current directory to the project directory:
+
+    cd Web-scraping-and-Data-Analysis-Project
+
+3.  **Create a virtual environment**
+
+    It's recommended to create a virtual environment to isolate the dependencies of this project from your other Python projects. You can create a virtual environment by running:
+
+    python -m venv .venv
+
+4.  **Activate the virtual environment**
+
+    Activate the virtual environment by running:
+
+    On Windows:
+
+    .venv\Scripts\activate
+
+    On Unix or MacOS:
+
+    source .venv/bin/activate
+
+5.  **Install the dependencies**
+
+    Install the required Python packages by running:
+
+    pip install -r requirements.txt
+
+6.  **Run the scripts**
+
+    Now you're ready to run the scripts. You can run the main script by executing:
+
+    python scrapper.py
+    python analyze.py
 
 ## Analysis Images
 
