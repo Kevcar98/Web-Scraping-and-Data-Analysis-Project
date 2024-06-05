@@ -66,7 +66,7 @@ Follow these steps to set up the project:
     Now you're ready to run the scripts. You can run the main script by executing:
 
      ```bash
-    python scrapper.py
+    python scraper.py
     python analyze.py
 
 ## Analysis Images
