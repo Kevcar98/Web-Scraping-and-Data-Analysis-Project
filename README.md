@@ -42,7 +42,7 @@ Follow these steps to set up the project:
 
     On Unix or MacOS:
 
-     ```
+     ```bash
     source .venv/bin/activate
 
 5.  **Install the dependencies**
