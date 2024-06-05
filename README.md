@@ -23,12 +23,13 @@ Follow these steps to set up the project:
 
     Change your current directory to the project directory:
 
+     ```bash
     cd Web-scraping-and-Data-Analysis-Project
 
 3.  **Create a virtual environment**
 
     It's recommended to create a virtual environment to isolate the dependencies of this project from your other Python projects. You can create a virtual environment by running:
-
+     ```bash
     python -m venv .venv
 
 4.  **Activate the virtual environment**
@@ -37,22 +38,26 @@ Follow these steps to set up the project:
 
     On Windows:
 
+     ```bash
     .venv\Scripts\activate
 
     On Unix or MacOS:
 
+     ```
     source .venv/bin/activate
 
 5.  **Install the dependencies**
 
     Install the required Python packages by running:
 
+     ```bash
     pip install -r requirements.txt
 
 6.  **Run the scripts**
 
     Now you're ready to run the scripts. You can run the main script by executing:
 
+     ```bash
     python scrapper.py
     python analyze.py
 
