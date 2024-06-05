@@ -39,9 +39,11 @@ Follow these steps to set up the project:
 
      ```bash
     .venv\Scripts\activate
+     ```
 
-   On Unix or MacOS:
+    On Unix or MacOS:
 
+     ```sh
     source .venv/bin/activate
 
 
