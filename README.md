@@ -77,7 +77,7 @@ Follow these steps to set up the project:
 
 ## Automation
 
-Comes with a .bat file to automate on Windows and .sh so that you can use to automate on Unix or MacOS.
+Comes with a .bat file to automate on Windows and .sh file so that you can use to automate on Unix or MacOS.
 
 (Use Notepad or equivalent to edit the bat file and replace "C:\path\to\your\directory" to the directory where the python files are.)
 
