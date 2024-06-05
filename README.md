@@ -45,7 +45,7 @@ Follow these steps to set up the project:
 
      ```sh
     source .venv/bin/activate
-
+     ```
 
 5.  **Install the dependencies**
 
