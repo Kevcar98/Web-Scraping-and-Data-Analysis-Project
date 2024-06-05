@@ -40,10 +40,10 @@ Follow these steps to set up the project:
      ```bash
     .venv\Scripts\activate
 
-    On Unix or MacOS:
 
-     ```bash
+   ```bash
     source .venv/bin/activate
+
 
 5.  **Install the dependencies**
 
