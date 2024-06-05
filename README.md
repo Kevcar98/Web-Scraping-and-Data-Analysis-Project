@@ -3,6 +3,13 @@
 ## Overview
 This project involves creating Python scripts to scrape book data from the "Books to Scrape" website, performs data analysis on the scraped data, and automates the execution of the scripts using Windows Task Scheduler. This project showcases skills in web scraping, data processing, analysis, and automation.
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Analysis Images](#analysis-images)
+- [Automation](#automation)
+
 ## Prerequisites
 - Python 3.x  (3.12 used in development)
 - Virtual environment (recommended)
