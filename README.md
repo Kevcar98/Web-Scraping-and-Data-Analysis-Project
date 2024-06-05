@@ -11,8 +11,13 @@ This project involves creating Python scripts to scrape book data from the "Book
 Create and activate the Virtual Environment then run the following in the terminal:
 pip install -r requirements.txt
 
+## Analysis Images
+
+![Price Distribution](price_distribution.png)
+
+![Price Distribution by Rating](price_distribution_by_rating.png)
 
 ## Automation
 
 Comes with a .bat file that you can use to automate it using Task Scheduler on Windows.
-(Use Notepad or equivalent to edit the bat file and replace "C:\path\to\your\directory" to the directory where the python files are) 
+(Use Notepad or equivalent to edit the bat file and replace "C:\path\to\your\directory" to the directory where the python files are)
