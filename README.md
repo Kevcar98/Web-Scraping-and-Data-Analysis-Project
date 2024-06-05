@@ -18,7 +18,6 @@ Follow these steps to set up the project:
    ```bash
    git clone https://github.com/Kevcar98/Web-scraping-and-Data-Analysis-Project.git
 
-
 2. **Navigate to the project directory**
 
     Change your current directory to the project directory:
