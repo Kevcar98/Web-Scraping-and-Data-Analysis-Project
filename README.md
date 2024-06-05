@@ -42,7 +42,6 @@ Follow these steps to set up the project:
 
    On Unix or MacOS:
 
-     ```
     source .venv/bin/activate
 
 
